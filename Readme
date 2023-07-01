@@ -1,20 +1,16 @@
-You can use these backups if you have a jailbrocken device or Trollstore installed.
+If you have a jailbroken device or Trollstore installed, you can use these backups.
 
-  1. Install Filza and AppSync Tweaks
+  1. To begin, install Filza and AppSync Tweaks. You can find Filza at https://www.tigisoftware.com/default/?p=439 and AppSync at https://github.com/akemin-dayo/AppSync.
 
-    Filza: https://www.tigisoftware.com/default/?p=439
-    AppSync: https://github.com/akemin-dayo/AppSync
+  2. Next, download the VPN application of your choice from the App Store.
 
+  3. Get AppsManager from this link: https://tigisoftware.com/download/AppsManager_1.8.1.ipa.
 
-  2. Download your desired VPN Application From Appstore
+  3. Install AppManager using the AppSync tweak.
 
-  3. Download AppsManager https://tigisoftware.com/download/AppsManager_1.8.1.ipa
+  4. Download the VPN backup (adbk) file that you desire.
 
-  3. Install AppManager via AppSync tweak
-
-  4. Download your desired VPN backup (adbk) file
-
-  5. Share or restore backup file to AppsManager
+  5. Share or restore the backup file to AppsManager
 
   6. Open your desired VPN app
 
